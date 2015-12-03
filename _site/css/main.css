@@ -3,17 +3,17 @@
 /* =Base */
 body {
   font-family: "Inconsolata";
-  color: #333333;
-  background-color: #F5F5F5; }
+  color: #242E35;
+  background-color: #EEEEE7; }
 
 a {
-  color: #828282;
+  color: #008B05;
   font-weight: bold;
   text-decoration: none; }
 
 p {
   font-size: 20px;
-  color: #333333;
+  color: #242E35;
   line-height: 32px; }
 
 img {
@@ -33,7 +33,7 @@ blockquote {
     position: absolute;
     bottom: -35px;
     font-size: 15px;
-    color: #333333;
+    color: #242E35;
     letter-spacing: 0px;
     left: 0px;
     right: 0px; }
@@ -44,7 +44,7 @@ blockquote {
   blockquote p {
     display: inline;
     font-size: 20px;
-    color: #828282;
+    color: #008B05;
     font-weight: 400; }
     blockquote p:before {
       content: "“ "; }
@@ -52,7 +52,7 @@ blockquote {
       content: " ”"; }
 
 strong {
-  color: #333333; }
+  color: #242E35; }
 
 /* =Header */
 .wrapper {
@@ -68,11 +68,11 @@ strong {
 .logo {
   font-size: 50px;
   font-weight: 700;
-  color: #333333;
+  color: #242E35;
   display: block; }
 
 .menu {
-  color: #828282;
+  color: #008B05;
   font-size: 18px;
   margin: 0px;
   margin-top: 6px;
@@ -91,7 +91,7 @@ strong {
 .social-links {
   float: right;
   font-size: 24px;
-  color: #828282;
+  color: #008B05;
   list-style-type: none; }
 
 .social-links__entry {
@@ -111,7 +111,7 @@ strong {
 .page-title__subtitle {
   font-weight: 400;
   font-size: 22px;
-  color: #828282; }
+  color: #008B05; }
 
 .post-title {
   margin-bottom: 110px; }
@@ -133,24 +133,24 @@ strong {
 
 .post-teaser__title {
   font-size: 22px;
-  color: #333333; }
+  color: #242E35; }
 
 .post-teaser__date {
   font-size: 16px;
   float: right;
   vertical-align: middle;
-  color: #828282; }
+  color: #008B05; }
 
 .empty-post-list {
   font-size: 22px;
   font-weight: 700;
-  color: #333333;
+  color: #242E35;
   text-align: center; }
 
 /* =Explore */
 .explore {
   text-align: center;
-  color: #828282;
+  color: #008B05;
   margin-top: 140px; }
 
 .explore__devider {
@@ -172,12 +172,12 @@ strong {
   font-size: 18px; }
 
 .categories__item a {
-  color: #333333; }
+  color: #242E35; }
 
 .categories__item:after {
   content: "/";
   margin-left: 6px;
-  color: #828282; }
+  color: #008B05; }
 
 .categories__item:last-child:after {
   content: "";
@@ -185,7 +185,7 @@ strong {
 
 /* =Post page */
 .about {
-  color: #828282;
+  color: #008B05;
   margin-top: 70px;
   text-align: center;
   line-height: 24px; }

@@ -4,9 +4,9 @@
 @charset "utf-8";
 
 /* =Colors */
-$dorian: #EEEEE7;
-$iron: #242E35;
-$cloudy: #008B05;
+$dorian: #F5F5F5;
+$iron: #333333;
+$cloudy: #828282;
 
 @import
     "mixins",
