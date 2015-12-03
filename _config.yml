@@ -1,0 +1,18 @@
+# Site settings
+title: dig it
+description: The personal blog of Christopher Federico
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://mynameiscfed.com" # the base hostname & protocol for your site
+
+author:
+  fullname: Christopher Federico
+  #googleplus: https://www.google.com/+MotaquillahMaddane
+  github: mynameiscfed
+  twitter: mynameiscfed
+  # disqus: your_disqus_username
+
+# google_analytics: 'UA-XXXXXXXX-X'
+
+# Build settings
+markdown: kramdown
