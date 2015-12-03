@@ -7,7 +7,7 @@ body {
   background-color: #EEEEE7; }
 
 a {
-  color: #008B05;
+  color: #00B3EA;
   font-weight: bold;
   text-decoration: none; }
 
@@ -44,7 +44,7 @@ blockquote {
   blockquote p {
     display: inline;
     font-size: 20px;
-    color: #008B05;
+    color: #00B3EA;
     font-weight: 400; }
     blockquote p:before {
       content: "“ "; }
@@ -72,7 +72,7 @@ strong {
   display: block; }
 
 .menu {
-  color: #008B05;
+  color: #00B3EA;
   font-size: 18px;
   margin: 0px;
   margin-top: 6px;
@@ -91,7 +91,7 @@ strong {
 .social-links {
   float: right;
   font-size: 24px;
-  color: #008B05;
+  color: #00B3EA;
   list-style-type: none; }
 
 .social-links__entry {
@@ -111,7 +111,7 @@ strong {
 .page-title__subtitle {
   font-weight: 400;
   font-size: 22px;
-  color: #008B05; }
+  color: #00B3EA; }
 
 .post-title {
   margin-bottom: 110px; }
@@ -139,7 +139,7 @@ strong {
   font-size: 16px;
   float: right;
   vertical-align: middle;
-  color: #008B05; }
+  color: #00B3EA; }
 
 .empty-post-list {
   font-size: 22px;
@@ -150,7 +150,7 @@ strong {
 /* =Explore */
 .explore {
   text-align: center;
-  color: #008B05;
+  color: #00B3EA;
   margin-top: 140px; }
 
 .explore__devider {
@@ -177,7 +177,7 @@ strong {
 .categories__item:after {
   content: "/";
   margin-left: 6px;
-  color: #008B05; }
+  color: #00B3EA; }
 
 .categories__item:last-child:after {
   content: "";
@@ -185,7 +185,7 @@ strong {
 
 /* =Post page */
 .about {
-  color: #008B05;
+  color: #00B3EA;
   margin-top: 70px;
   text-align: center;
   line-height: 24px; }
