@@ -15,11 +15,11 @@ Here it is completed. The metal rod screws into the base.
 ![3.jpg](/assets/images/shawarma/3.jpg)
 I had already sliced some lamb and marinated it overnight in a mixture of yogurt, tumeric, garlic, cumin, corriender, allspice,  pepper, and salt. I flipped the metal rod over and carefully stacked the slices of meat on. I put it all together, placed it back in the machine and turned it on.
 ![5.jpg](/assets/images/shawarma/5.jpg)
-Now that the meat was slowly roasting away, I worked on my pita bread. I rolled out the small and delicate pieces of dough and set them to rise.
+Now that the meat was slowly roasting away I worked on my pita bread. I rolled out the small and delicate pieces of dough and set them to rise.
 ![6.jpg](/assets/images/shawarma/6.jpg)
 Some must have condiments include onion and tahina sauce.
 ![7.jpg](/assets/images/shawarma/7.jpg)
-And after hour's of waiting I had my lunch.
+And after hours of waiting I had my lunch.
 ![9.jpg](/assets/images/shawarma/9.jpg)
 There was not much leftover.
 ![8.jpg](/assets/images/shawarma/8.jpg)
