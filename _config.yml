@@ -12,7 +12,7 @@ author:
   twitter: mynameiscfed
   # disqus: your_disqus_username
 
-# google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-71044403-1'
 
 # Build settings
 markdown: kramdown

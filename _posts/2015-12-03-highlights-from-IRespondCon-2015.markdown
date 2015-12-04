@@ -11,7 +11,7 @@ I have never heard of IRespondCon. Probably because I am not doing incident resp
 
 Overall it was a great time and I am thankful that [OpenDNS](https://www.opendns.com/) was grateful to host it.
 
-There is one thing that I heard come up many times during the course of the day. It was vendors providing open API's and quality documentation to allow for cross platform integration. This is something I really agree with and think every product selction should have this as a criterion. Just my $.02. 
+There is one thing that I heard come up many times during the course of the day. It was vendors providing open APIs and quality documentation to allow for cross platform integration. This is something I really agree with and think every product selction should have this as a criterion. Just my $.02. 
 
 
 
