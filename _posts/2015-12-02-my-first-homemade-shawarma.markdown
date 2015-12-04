@@ -2,7 +2,7 @@
 layout: post
 title:  "my first homemade shawarma"
 #subtitle: ""
-date:   2015-12-03 01:00:00
+date:   2015-12-02 23:00:00
 categories: [food]
 ---
 It started out as a research project. I was curious if anyone had ever made a good homemade shawarma in the oven, since a rotating machine was in the range of hundreds of dollars to thousands of dollars. My first pass of recipes and images found online were disappointing. I was never going to make a real shawarma at home. I lost interest for while. All of a sudden I stumbled on a YouTube video of someone making a gyro machine out of a Sunbeam rotissiere. I figured this was doable. I could do the same thing.
