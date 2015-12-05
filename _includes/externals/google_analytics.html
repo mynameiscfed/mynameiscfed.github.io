@@ -11,9 +11,8 @@
 	  req.send(null);
 	  return (req.getResponseHeader("cf-ray").split("-"))[1];
       }
-
-      ga('set','dimension1',loc());
       ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('set','dimension1',loc());
       ga('send', 'pageview');
     </script>
 
